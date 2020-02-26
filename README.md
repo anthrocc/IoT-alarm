@@ -1,2 +1,2 @@
 # IoT-alarm
-eecs2031 IoT alarm assignment. The code here is just the skeleton. You will have to write the rest.
+An alarm application using IFTTT services to notify an SMS number of alerts
